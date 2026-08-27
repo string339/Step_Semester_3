@@ -25,5 +25,6 @@ public class StudentTest {
         Student s2 = new Student("Anitha", 85);
 
         Student.printCollegeInfo();
+        
     }
 }
